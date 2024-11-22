@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="8dp"
-        android:text="User"
+        android:text="@string/user"
         android:textColor="@color/black"
         android:textSize="@dimen/dimen_16_sp"
         android:textStyle="bold"

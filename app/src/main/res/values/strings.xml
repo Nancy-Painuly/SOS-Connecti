@@ -4,6 +4,16 @@
     <string name="sos">SOS</string>
     <string name="guard">GUARD</string>
     <string name="my_family">My Family</string>
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="guard_about">In case of emergency, keep telling family members to contact me</string>
+    <string name="sos_about">Open when you are on a potentially dangerous journey</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="continue_with_google">CONTINUE WITH GOOGLE</string>
+    <string name="default_web_client_id_auth">560170191691-o1u4240cfj3rclhbgel26fko4t15kfoh.apps.googleusercontent.com</string>
+    <string name="accept">Accept</string>
+    <string name="deny">Deny</string>
+    <string name="your_invites">Your Invites :</string>
+    <string name="invite">Invite</string>
+    <string name="whom_you_want_to_invite">Enter Email of whom you want to invite</string>
+    <string name="user">User</string>
 </resources>

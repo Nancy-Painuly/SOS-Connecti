@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Myfamily"
 include(":app")
+include(":app")
